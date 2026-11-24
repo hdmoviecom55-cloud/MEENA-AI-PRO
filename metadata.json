@@ -1,0 +1,8 @@
+{
+  "name": "Meena AI Pro",
+  "description": "MEENA AI PRO – Your Personal AI Companion featuring animated AI characters, custom cosmic orbs, natural Hindi/Hinglish/English voice pipeline, Gemini & Groq chat, AI Image Studio, Connections, Quick Actions, Phone Control, Journal, Documents & Coding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
